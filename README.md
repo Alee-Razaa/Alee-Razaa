@@ -15,17 +15,21 @@
 
 ## 🌟 Featured Projects
 
-### **Multimodal AI Chatbot**  
-An advanced AI-powered chatbot application that integrates a **React.js** frontend with multiple **Python microservices**. It supports multimodal interaction with capabilities like text-to-speech, image-to-text (OCR), and audio transcription. Ideal for real-time AI interaction and experimentation using models from OpenRouter.
+### **MMC AI – Multimodal AI Chatbot Hub**
+
+A unified, AI-powered chatbot platform combining a **React.js** frontend, **Node.js** backend, and modular **Python microservices**. Supports multimodal interaction including AI chat (Gemini, OpenRouter), text-to-speech (TTS), image-to-text (OCR), and audio transcription. Built for students, professionals, and creators seeking real-time AI tools.
 
 - 🤖 **Key Features:**
-  - AI chat via OpenRouter
-  - Text-to-Speech (gTTS)
-  - Image-to-Text (EasyOCR)
-  - Audio-to-Text (Whisper)
+  - Chat with AI via Gemini and OpenRouter (GPT, Mistral)
+  - Generate images via Stability AI
+  - Text-to-Speech (gTTS / pyttsx3)
+  - Image-to-Text (Tesseract OCR)
+  - Persistent Chat History (by ID)
+  - JWT Auth for secure sessions
 
-- 🚀 **Tech Stack:** React, Python (Flask), gTTS, EasyOCR, Whisper  
-- 📂 **Microservices:** TTS, OCR, and Speech-to-Text APIs  
+- 🚀 **Tech Stack:** React, Node.js, Python (Flask), Tailwind, MongoDB  
+- 📂 **Microservices:** TTS, OCR, and Audio-to-Text APIs
+- 📦 **Repository:** [github.com/Alee-Razaa/Multimodal-AI-Chatbot](https://github.com/Alee-Razaa/Multimodal-AI-Chatbot)
 - 🌐 **Live Demo:** *Coming Soon*
 
 ---
